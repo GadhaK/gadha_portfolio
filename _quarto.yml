@@ -20,6 +20,6 @@ website:
 
 format:
   html:
-    theme: journal
+    theme: pulse
     css: styles.css
     toc: true
