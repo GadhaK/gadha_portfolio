@@ -4,7 +4,7 @@
     "href": "research.html",
     "title": "Research & Skills",
     "section": "",
-    "text": "Domain\nSkills\n\n\n\n\nBioinformatics\nRNA-Seq analysis, Differential Gene Expression, Fusion Detection, Protein Structure Modeling, Docking [cite: 62]\n\n\nProgramming\nR (Bioconductor), Linux/Bash for NGS workflows\n\n\nWet Lab\nCRISPR-Cas9, Microinjection, Flow Cytometry, Cell Culture, qPCR, MLPA\n\n\n\n\nOral Presentation: JSH 2025 (87th Annual Meeting), Kobe, Japan - Oral presentation on B-ALL research.\nAbstract: ICKSH 2026 (Upcoming).\n[cite_start]Poster: Whole Transcriptome Sequencing Uncovers Key Coding and Non-Coding Biomarkers in IKZF1Plus B-ALL (EHA 2025)."
+    "text": "Domain\nSkills\n\n\n\n\nBioinformatics\nRNA-Seq analysis, Differential Gene Expression, Fusion Detection, Protein Structure Modeling, Docking\n\n\nProgramming\nR (Bioconductor), Linux/Bash for NGS workflows\n\n\nWet Lab\nCRISPR-Cas9, Microinjection, Flow Cytometry, Cell Culture, qPCR, MLPA\n\n\n\n\nOral Presentation: JSH 2025 (87th Annual Meeting), Kobe, Japan - Oral presentation on B-ALL research.\nAbstract: ICKSH 2026 (Upcoming).\nPoster: Whole Transcriptome Sequencing Uncovers Key Coding and Non-Coding Biomarkers in IKZF1Plus B-ALL (EHA 2025)."
   },
   {
     "objectID": "index.html",
@@ -46,6 +46,6 @@
     "href": "publications.html#book-chapters",
     "title": "Publications",
     "section": "Book Chapters",
-    "text": "Book Chapters\n\nGupta, S. K., & Leons, G. K. (2025). “Molecular Diagnostics”. In Manual of Hematology (pp. 158-169). [cite_start]Jaypee Brothers Medical Publishers. [cite: 56, 57]\nGupta, S. K., & Leons, G. K. (2025). “Diagnosis of Ph-like B-ALL: The Ideal Approach in the Indian Setting”. In Recent Advances in Hematology-5 (pp. 92-103). [cite_start]Jaypee Brothers Medical Publishers. [cite: 58, 59]"
+    "text": "Book Chapters\n\nGupta, S. K., & Leons, G. K. (2025). “Molecular Diagnostics”. In Manual of Hematology (pp. 158-169). [cite_start]Jaypee Brothers Medical Publishers.\nGupta, S. K., & Leons, G. K. (2025). “Diagnosis of Ph-like B-ALL: The Ideal Approach in the Indian Setting”. In Recent Advances in Hematology-5 (pp. 92-103). Jaypee Brothers Medical Publishers."
   }
 ]
