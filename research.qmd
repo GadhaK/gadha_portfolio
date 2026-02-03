@@ -2,16 +2,16 @@
   title: "Research & Skills"
 ---
   
-  ## Technical Skills
+
   
   | Domain | Skills |
   |:---|:---|
-  | **Bioinformatics** | [cite_start]RNA-Seq analysis, Differential Gene Expression, Fusion Detection, Protein Structure Modeling, Docking [cite: 62] |
+  | **Bioinformatics** | RNA-Seq analysis, Differential Gene Expression, Fusion Detection, Protein Structure Modeling, Docking |
   | **Programming** | R (Bioconductor), Linux/Bash for NGS workflows |
-  | **Wet Lab** | [cite_start]CRISPR-Cas9, Microinjection, Flow Cytometry, Cell Culture, qPCR, MLPA [cite: 64, 65] |
+  | **Wet Lab** | CRISPR-Cas9, Microinjection, Flow Cytometry, Cell Culture, qPCR, MLPA |
   
-  ## Conference Presentations
+ 
   
   * **Oral Presentation:** *JSH 2025 (87th Annual Meeting)*, Kobe, Japan - Oral presentation on B-ALL research.
 * **Abstract:** *ICKSH 2026* (Upcoming).
-* [cite_start]**Poster:** Whole Transcriptome Sequencing Uncovers Key Coding and Non-Coding Biomarkers in IKZF1Plus B-ALL (*EHA 2025*)[cite: 43].
+* **Poster:** Whole Transcriptome Sequencing Uncovers Key Coding and Non-Coding Biomarkers in IKZF1Plus B-ALL (*EHA 2025*).

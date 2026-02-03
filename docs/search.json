@@ -4,21 +4,28 @@
     "href": "research.html",
     "title": "Research & Skills",
     "section": "",
-    "text": "## Technical Skills\n\n\n\n\n\n\n\nDomain\nSkills\n\n\n\n\nBioinformatics\n[cite_start]RNA-Seq analysis, Differential Gene Expression, Fusion Detection, Protein Structure Modeling, Docking [cite: 62]\n\n\nProgramming\nR (Bioconductor), Linux/Bash for NGS workflows\n\n\nWet Lab\n[cite_start]CRISPR-Cas9, Microinjection, Flow Cytometry, Cell Culture, qPCR, MLPA [cite: 64, 65]\n\n\n\n## Conference Presentations\n\nOral Presentation: JSH 2025 (87th Annual Meeting), Kobe, Japan - Oral presentation on B-ALL research.\nAbstract: ICKSH 2026 (Upcoming).\n[cite_start]Poster: Whole Transcriptome Sequencing Uncovers Key Coding and Non-Coding Biomarkers in IKZF1Plus B-ALL (EHA 2025)[cite: 43]."
+    "text": "Domain\nSkills\n\n\n\n\nBioinformatics\nRNA-Seq analysis, Differential Gene Expression, Fusion Detection, Protein Structure Modeling, Docking\n\n\nProgramming\nR (Bioconductor), Linux/Bash for NGS workflows\n\n\nWet Lab\nCRISPR-Cas9, Microinjection, Flow Cytometry, Cell Culture, qPCR, MLPA\n\n\n\n\nOral Presentation: JSH 2025 (87th Annual Meeting), Kobe, Japan - Oral presentation on B-ALL research.\nAbstract: ICKSH 2026 (Upcoming).\nPoster: Whole Transcriptome Sequencing Uncovers Key Coding and Non-Coding Biomarkers in IKZF1Plus B-ALL (EHA 2025)."
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gadha Krishna Leons",
     "section": "",
-    "text": "## Journal Articles\n2025\n2023"
+    "text": "I am a Ph.D. Scholar in Cancer Genetics at AIIMS, New Delhi, working at the intersection of molecular genetics and bioinformatics."
   },
   {
-    "objectID": "publications.html#book-chapters",
-    "href": "publications.html#book-chapters",
-    "title": "Publications",
-    "section": "Book Chapters",
-    "text": "Book Chapters\n\nGupta, S. K., & Leons, G. K. (2025). “Molecular Diagnostics”. In Manual of Hematology (pp. 158-169). [cite_start]Jaypee Brothers Medical Publishers. [cite: 56, 57]\nGupta, S. K., & Leons, G. K. (2025). “Diagnosis of Ph-like B-ALL: The Ideal Approach in the Indian Setting”. In Recent Advances in Hematology-5 (pp. 92-103). [cite_start]Jaypee Brothers Medical Publishers. [cite: 58, 59]"
+    "objectID": "index.html#research-focus",
+    "href": "index.html#research-focus",
+    "title": "Gadha Krishna Leons",
+    "section": "Research Focus",
+    "text": "Research Focus\nMy research investigates the molecular landscape of B-cell Acute Lymphoblastic Leukemia (B-ALL). I specialize in identifying predictive biomarkers and novel fusions in BCR::ABL1-negative B-ALL to drive personalized medicine approaches."
+  },
+  {
+    "objectID": "index.html#current-work",
+    "href": "index.html#current-work",
+    "title": "Gadha Krishna Leons",
+    "section": "Current Work",
+    "text": "Current Work\n\nGenomic Profiling: Investigating genetic subtypes and fusions in B-ALL using RNA-Seq and functional assays.\nDrug Targets: Studying predictive and prognostic molecular aberrations to improve patient outcomes."
   },
   {
     "objectID": "about.html",
@@ -28,24 +35,17 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Gadha Leons",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "I am a Ph.D. Scholar in Hematologic Oncology at AIIMS, New Delhi, working at the intersection of molecular genetics and bioinformatics."
+    "text": "2025\n2023"
   },
   {
-    "objectID": "index.html#research-focus",
-    "href": "index.html#research-focus",
-    "title": "Gadha Leons",
-    "section": "Research Focus",
-    "text": "Research Focus\nMy research investigates the molecular landscape of B-cell Acute Lymphoblastic Leukemia (B-ALL). I specialize in identifying predictive biomarkers and novel fusions in BCR::ABL1-negative B-ALL to drive personalized medicine approaches."
-  },
-  {
-    "objectID": "index.html#current-work",
-    "href": "index.html#current-work",
-    "title": "Gadha Leons",
-    "section": "Current Work",
-    "text": "Current Work\n\n[cite_start]Genomic Profiling: Investigating genetic subtypes and fusions in B-ALL using RNA-Seq and functional assays[cite: 20].\n[cite_start]Drug Targets: Studying predictive and prognostic molecular aberrations to improve patient outcomes[cite: 20]."
+    "objectID": "publications.html#book-chapters",
+    "href": "publications.html#book-chapters",
+    "title": "Publications",
+    "section": "Book Chapters",
+    "text": "Book Chapters\n\nGupta, S. K., & Leons, G. K. (2025). “Molecular Diagnostics”. In Manual of Hematology (pp. 158-169). [cite_start]Jaypee Brothers Medical Publishers.\nGupta, S. K., & Leons, G. K. (2025). “Diagnosis of Ph-like B-ALL: The Ideal Approach in the Indian Setting”. In Recent Advances in Hematology-5 (pp. 92-103). Jaypee Brothers Medical Publishers."
   }
 ]

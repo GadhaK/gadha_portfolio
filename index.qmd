@@ -1,5 +1,5 @@
 ---
-title: "Gadha Leons"
+title: "Gadha Krishna Leons"
 about:
   template: jolla
   image: profile.jpg # You will need to add a photo named profile.jpg to your folder later!
@@ -9,7 +9,7 @@ about:
       href: mailto:gadha.leons@gmail.com
 ---
 
-I am a **Ph.D. Scholar** in Hematologic Oncology at **AIIMS, New Delhi**, working at the intersection of molecular genetics and bioinformatics.
+I am a **Ph.D. Scholar** in Cancer Genetics at **AIIMS, New Delhi**, working at the intersection of molecular genetics and bioinformatics.
 
 ## Research Focus
 
@@ -17,5 +17,5 @@ My research investigates the molecular landscape of **B-cell Acute Lymphoblastic
 
 ## Current Work
 
--   \[cite_start\]**Genomic Profiling:** Investigating genetic subtypes and fusions in B-ALL using RNA-Seq and functional assays\[cite: 20\].
--   \[cite_start\]**Drug Targets:** Studying predictive and prognostic molecular aberrations to improve patient outcomes\[cite: 20\].
+-   **Genomic Profiling:** Investigating genetic subtypes and fusions in B-ALL using RNA-Seq and functional assays.
+-   **Drug Targets:** Studying predictive and prognostic molecular aberrations to improve patient outcomes.

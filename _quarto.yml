@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Gadha Leons"
+  title: "Gadha Krishna Leons"
   navbar:
     left:
       - href: index.qmd
@@ -20,6 +20,6 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: pulse
     css: styles.css
     toc: true
