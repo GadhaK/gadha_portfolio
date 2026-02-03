@@ -1,0 +1,23 @@
+---
+  title: "Publications"
+---
+  
+  ## Journal Articles
+  
+  **2025**
+  
+  * **Leons, G. K.**, Sharma, P., et al. (2025). Application of Targeted RNA-Sequencing in High-Risk B-Cell Acute Lymphoblastic Leukemia (B-ALL): Identifying Fusions, IKZF1 Deletions, and CRLF2 Expression in an Indian Cohort. *Int J Lab Hematol*. [cite_start][doi:10.1111/ijlh.14551](https://doi.org/10.1111/ijlh.14551) [cite: 28, 29, 30]
+
+* Sharma, P., **Leons, G. K.**, et al. (2025). Gene expression signature of IKZF1 deleted B-cell acute lymphoblastic leukaemia reveals a unique regulation of MUC4. *Br J Haematol*. [cite_start][doi:10.1111/bjh.70014](https://doi.org/10.1111/bjh.70014) [cite: 31, 32]
+
+* Gupta, S.K., **Leons, G. K.** (2025). Genetics of B-Cell Acute Lymphoblastic Leukemia (B-ALL): Recent Updates and Indian Perspective. [cite_start]*Indian J Hematol Blood Transfus*. [cite: 34, 35]
+
+**2023**
+  
+  * **Leons, G. K.**, et al. (2023). Detection of a novel SNX2 gene breakpoint in the SNX2::ABL1 fusion transcript in Ph-like B-cell acute lymphoblastic leukemia. *Pediatric Blood & Cancer*. [cite_start][doi:10.1002/pbc.30546](https://doi.org/10.1002/pbc.30546) [cite: 36, 37, 38]
+
+## Book Chapters
+
+* Gupta, S. K., & **Leons, G. K.** (2025). "Molecular Diagnostics". In *Manual of Hematology* (pp. 158-169). [cite_start]Jaypee Brothers Medical Publishers. [cite: 56, 57]
+
+* Gupta, S. K., & **Leons, G. K.** (2025). "Diagnosis of Ph-like B-ALL: The Ideal Approach in the Indian Setting". In *Recent Advances in Hematology-5* (pp. 92-103). [cite_start]Jaypee Brothers Medical Publishers. [cite: 58, 59]

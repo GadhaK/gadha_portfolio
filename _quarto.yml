@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Gadha Leons"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research & Skills
+      - href: publications.qmd
+        text: Publications
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/  # Add your link if you have one
+      - icon: envelope
+        href: mailto:gadha.leons@gmail.com
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
