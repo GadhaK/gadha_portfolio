@@ -6,9 +6,9 @@
   
   | Domain | Skills |
   |:---|:---|
-  | **Bioinformatics** | RNA-Seq analysis, Differential Gene Expression, Fusion Detection, Protein Structure Modeling, Docking |
-  | **Programming** | R (Bioconductor), Linux/Bash for NGS workflows |
-  | **Wet Lab** | CRISPR-Cas9, Microinjection, Flow Cytometry, Cell Culture, qPCR, MLPA |
+  | **Bioinformatics** | RNA-Seq analysis, Differential Gene Expression, WGCNA, Fusion Detection, Protein Structure Modeling, Docking |
+  | **Programming** | R, Python, Linux/Bash for NGS workflows |
+  | **Wet Lab** |  RNA-Sequencing, Flow Cytometry, RT-qPCR, MLPA, Cell Culture, CRISPR-Cas9, Microinjection |
   
  
   

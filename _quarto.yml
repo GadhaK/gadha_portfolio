@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Gadha Krishna Leons"
+  search: true          # Adds the Search button
   navbar:
     left:
       - href: index.qmd
@@ -12,14 +13,13 @@ website:
         text: Research & Skills
       - href: publications.qmd
         text: Publications
-    right:
-      - icon: linkedin
-        href: https://www.linkedin.com/  # Add your link if you have one
-      - icon: envelope
-        href: mailto:gadha.leons@gmail.com
+    # We removed the 'right' section with LinkedIn/Mail icons entirely.
+    # The 'Moon' icon appears automatically because we define two themes below.
 
 format:
   html:
-    theme: pulse
+    theme:
+      light: cosmo      # The "Sun" mode
+      dark: slate       # The "Moon" mode
     css: styles.css
-    toc: true
+    toc: false          # REMOVES the "On this page" right panel

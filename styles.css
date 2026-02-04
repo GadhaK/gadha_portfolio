@@ -1,1 +1,104 @@
-/* css styles */
+/* =========================================
+   1. LAYOUT & WIDTH FIXES
+   ========================================= */
+
+/* Make the main page container almost full width */
+.quarto-container {
+    max-width: 95% !important; 
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+/* Force the content to ignore the sidebar space completely */
+.page-columns .content {
+    grid-column: page-start / page-end !important;
+}
+
+/* Remove the maximum width limit on the "About Me" text block */
+.about-contents {
+    max-width: none !important;
+}
+
+/* Hide the right sidebar ("On this page") */
+#quarto-margin-sidebar {
+    display: none !important;
+}
+
+/* =========================================
+   2. LINK BUTTONS (CLEAN OUTLINE STYLE)
+   ========================================= */
+
+/* This turns the link container into a vertical column */
+.about-links {
+    display: flex !important;
+    flex-direction: column !important; 
+    align-items: center !important;    
+    width: 100% !important;
+}
+
+
+
+/* Style the individual buttons to match Image 3 */
+.about-link {
+    width: 80% !important; 
+    margin-bottom: 5px !important; 
+    justify-content: center !important;
+}
+/* Optional: Make the buttons look cleaner (less boxy) */
+.about-link {
+  border-radius: 20px;
+}    
+    /* DESIGN CHANGE: Minimalist Outline */
+    /*background-color: transparent !important; /* No Blue Background */
+    /*color: #444 !important; /* Dark Grey Text */
+    /*border: 1px solid #ccc !important; /* Thin Grey Border */
+    /*border-radius: 5px !important; /* Slightly rounded corners (not full pill) */
+    
+    /*padding: 8px 15px !important;
+    /*text-decoration: none !important;
+    /*text-transform: uppercase; /* Optional: Makes text look professional */
+    /*font-size: 14px !important;
+    /*transition: all 0.2s ease;
+}
+
+/* Hover Effect: Turns light grey when you touch it */
+.about-link:hover {
+    background-color: #f0f0f0 !important;
+    border-color: #999 !important;
+    color: #000 !important;
+}
+
+/* =========================================
+   3. GENERAL TEXT STYLING
+   ========================================= */
+
+body {
+    font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 13px; 
+    /*color: #212529; 
+    background-color: #fff; /* White background looks cleaner for this style */
+/*}
+
+/*h1, h2, h3 {
+    color: #222; /* Darker headings (almost black) to match the clean look */
+/*    font-weight: 700;
+}*/
+
+/* =========================================
+   4. CUSTOM TRESTLES WIDTHS
+   ========================================= */
+
+@media (min-width: 992px) {
+  /* Force the Left Panel (Photo/Links) to be narrower */
+  .quarto-about-trestles .about-entity {
+    width: 25% !important;  /* Was roughly 35-40% by default */
+    max-width: 280px !important; 
+    flex-basis: auto !important;
+  }
+
+  /* Force the Right Panel (Bio) to be wider */
+  .quarto-about-trestles .about-contents {
+    width: 70% !important;  /* Takes up the remaining space */
+    flex-basis: auto !important;
+  }
+}

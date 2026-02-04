@@ -1,21 +1,55 @@
 ---
-title: "Gadha Krishna Leons"
+title: "Gadha Krishna Leons"  # <--- CHANGED THIS
+image: profile.jpg
 about:
-  template: jolla
-  image: profile.jpg # You will need to add a photo named profile.jpg to your folder later!
+  template: trestles
+  image-shape: round
+  image-width: 10em
   links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/
+    - icon: github
+      text: GitHub
+      href: https://github.com/yourusername
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/
+    - icon: book
+      text: ResearchGate
+      href: https://www.researchgate.net/
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/
     - icon: envelope
       text: Email
       href: mailto:gadha.leons@gmail.com
 ---
 
-I am a **Ph.D. Scholar** in Cancer Genetics at **AIIMS, New Delhi**, working at the intersection of molecular genetics and bioinformatics.
+### About Me
 
-## Research Focus
+I am a **PhD Scholar** in Hematologic Oncology at the **All India Institute of Medical Sciences (AIIMS)**, New Delhi.
 
-My research investigates the molecular landscape of **B-cell Acute Lymphoblastic Leukemia (B-ALL)**. I specialize in identifying predictive biomarkers and novel fusions in BCR::ABL1-negative B-ALL to drive personalized medicine approaches.
+My work operates at the intersection of **Cancer Genetics** and **Bioinformatics**. I utilize high-throughput sequencing (RNA-Seq) and functional genomics to decipher the molecular landscape of **B-cell Acute Lymphoblastic Leukemia (B-ALL)**. My goal is to identify novel predictive biomarkers and therapeutic targets for high-risk, relapsed leukemia subtypes.
 
-## Current Work
+I am currently seeking **Postdoctoral opportunities** to further explore cancer evolution using multi-omics approaches.
 
--   **Genomic Profiling:** Investigating genetic subtypes and fusions in B-ALL using RNA-Seq and functional assays.
--   **Drug Targets:** Studying predictive and prognostic molecular aberrations to improve patient outcomes.
+------------------------------------------------------------------------
+
+::::: grid
+::: g-col-6
+#### Interests
+
+**Cancer Genomics** (B-ALL Subtyping)<br> **Transcriptomics** (RNA-Seq Analysis)<br> **Precision Medicine**<br> **Functional Genomics** (CRISPR-Cas9)
+:::
+
+::: g-col-6
+#### Education
+
+**PhD in Hematologic Oncology** \| 2022 - Present<br> *AIIMS, New Delhi, India*
+
+**MSc in Applied Genetics** \| 2017 - 2019<br> *Bangalore University, India*
+
+**BSc in Genetics** \| 2014 - 2017<br> *Ramaiah College, India*
+:::
+:::::
