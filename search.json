@@ -4,28 +4,14 @@
     "href": "research.html",
     "title": "Research & Skills",
     "section": "",
-    "text": "Domain\nSkills\n\n\n\n\nBioinformatics\nRNA-Seq analysis, Differential Gene Expression, Fusion Detection, Protein Structure Modeling, Docking\n\n\nProgramming\nR (Bioconductor), Linux/Bash for NGS workflows\n\n\nWet Lab\nCRISPR-Cas9, Microinjection, Flow Cytometry, Cell Culture, qPCR, MLPA\n\n\n\n\nOral Presentation: JSH 2025 (87th Annual Meeting), Kobe, Japan - Oral presentation on B-ALL research.\nAbstract: ICKSH 2026 (Upcoming).\nPoster: Whole Transcriptome Sequencing Uncovers Key Coding and Non-Coding Biomarkers in IKZF1Plus B-ALL (EHA 2025)."
+    "text": "Domain\nSkills\n\n\n\n\nBioinformatics\nRNA-Seq analysis, Differential Gene Expression, WGCNA, Fusion Detection, Protein Structure Modeling, Docking\n\n\nProgramming\nR, Python, Linux/Bash for NGS workflows\n\n\nWet Lab\nRNA-Sequencing, Flow Cytometry, RT-qPCR, MLPA, Cell Culture, CRISPR-Cas9, Microinjection\n\n\n\n\nOral Presentation: JSH 2025 (87th Annual Meeting), Kobe, Japan - Oral presentation on B-ALL research.\nAbstract: ICKSH 2026 (Upcoming).\nPoster: Whole Transcriptome Sequencing Uncovers Key Coding and Non-Coding Biomarkers in IKZF1Plus B-ALL (EHA 2025)."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Gadha Krishna Leons",
     "section": "",
-    "text": "I am a Ph.D. Scholar in Cancer Genetics at AIIMS, New Delhi, working at the intersection of molecular genetics and bioinformatics."
-  },
-  {
-    "objectID": "index.html#research-focus",
-    "href": "index.html#research-focus",
-    "title": "Gadha Krishna Leons",
-    "section": "Research Focus",
-    "text": "Research Focus\nMy research investigates the molecular landscape of B-cell Acute Lymphoblastic Leukemia (B-ALL). I specialize in identifying predictive biomarkers and novel fusions in BCR::ABL1-negative B-ALL to drive personalized medicine approaches."
-  },
-  {
-    "objectID": "index.html#current-work",
-    "href": "index.html#current-work",
-    "title": "Gadha Krishna Leons",
-    "section": "Current Work",
-    "text": "Current Work\n\nGenomic Profiling: Investigating genetic subtypes and fusions in B-ALL using RNA-Seq and functional assays.\nDrug Targets: Studying predictive and prognostic molecular aberrations to improve patient outcomes."
+    "text": "About Me\nI am a PhD Scholar in Hematologic Oncology at the All India Institute of Medical Sciences (AIIMS), New Delhi.\nMy work operates at the intersection of Cancer Genetics and Bioinformatics. I utilize high-throughput sequencing (RNA-Seq) and functional genomics to decipher the molecular landscape of B-cell Acute Lymphoblastic Leukemia (B-ALL). My goal is to identify novel predictive biomarkers and therapeutic targets for high-risk, relapsed leukemia subtypes.\nI am currently seeking Postdoctoral opportunities to further explore cancer evolution using multi-omics approaches.\n\n\n\nInterests\nCancer Genomics (B-ALL Subtyping) Transcriptomics (RNA-Seq Analysis) Precision Medicine Functional Genomics (CRISPR-Cas9)\n\n\nEducation\nPhD in Hematologic Oncology | 2022 - Present AIIMS, New Delhi, India\nMSc in Applied Genetics | 2017 - 2019 Bangalore University, India\nBSc in Genetics | 2014 - 2017 Ramaiah College, India"
   },
   {
     "objectID": "about.html",
@@ -46,6 +32,6 @@
     "href": "publications.html#book-chapters",
     "title": "Publications",
     "section": "Book Chapters",
-    "text": "Book Chapters\n\nGupta, S. K., & Leons, G. K. (2025). “Molecular Diagnostics”. In Manual of Hematology (pp. 158-169). [cite_start]Jaypee Brothers Medical Publishers.\nGupta, S. K., & Leons, G. K. (2025). “Diagnosis of Ph-like B-ALL: The Ideal Approach in the Indian Setting”. In Recent Advances in Hematology-5 (pp. 92-103). Jaypee Brothers Medical Publishers."
+    "text": "Book Chapters\n\nGupta, S. K., & Leons, G. K. (2025). “Molecular Diagnostics”. In Manual of Hematology (pp. 158-169). Jaypee Brothers Medical Publishers.\nGupta, S. K., & Leons, G. K. (2025). “Diagnosis of Ph-like B-ALL: The Ideal Approach in the Indian Setting”. In Recent Advances in Hematology-5 (pp. 92-103). Jaypee Brothers Medical Publishers."
   }
 ]
