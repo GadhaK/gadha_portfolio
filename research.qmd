@@ -9,12 +9,11 @@ title: "Research & Skills"
 ::: {.g-col-12 .g-col-md-4}
 <div class="skill-card">
 ### 🧪 Wet Lab
-* Next Generation Sequencing (NGS), Illumina chemistry
 * Whole Transcriptome Sequencing (WTS)
 * Sanger Sequencing
 * Flow Cytometry
 * RT-qPCR
-* Multiplex Ligation-dependant Probe Amplification (MLPA)
+* Multiplex Ligation-dependent Probe Amplification (MLPA)
 * Mammalian Cell Culture
 * CRISPR-Cas9 Editing
 * Microinjection
