@@ -37,7 +37,7 @@ I am actively seeking **Postdoctoral opportunities** in genomics and data-driven
 ::: g-col-6
 #### Interests
 
-**Cancer Genomics** <br> **Transcriptomics** <br> **Precision Medicine**<br> **Functional Genomics** 
+**Transcriptomics**  <br>  **Bioinformatics**  <br>  **Cancer Genomics**  <br>  **Precision Medicine**
 :::
 
 ::: g-col-6

@@ -7,53 +7,11 @@
     "text": "RNA-Seq Analysis\nDifferential Gene Expression\nWGCNA Network Analysis\nFusion Detection\nProtein Structure Modeling\nMolecular Docking\n\n\n\n\n\n\n\nR (Advanced)\nPython (Intermediate)\nLinux / Unix\nSnakemake Pipelines\nGit / Version Control\nHPC Workflows\n\n\n\n\n\n\n\nFlow Cytometry\nRT-qPCR\nMLPA\nMammalian Cell Culture\nCRISPR-Cas9 Editing\nMicroinjection"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Gadha Krishna Leons",
-    "section": "",
-    "text": "I am a PhD Scholar at the All India Institute of Medical Sciences (AIIMS), New Delhi, operating at the intersection of Molecular Biology and Bioinformatics.\nWith a strong foundation in bench-based cancer research, I have pivoted to computational biology—and I am loving every minute of it. My current work integrates transcriptomics (RNA-Seq), machine learning, and clinical data to decipher the molecular landscape of B-cell Acute Lymphoblastic Leukemia (B-ALL).\nI am analyzing expression-based RNA-Seq data from a large Indian B-ALL cohort to reveal subtype-specific expression patterns, fusion events, and transcriptomic profiles. My ultimate goal is to uncover diagnostic and prognostic biomarkers that can improve treatment strategies.\nI am actively seeking Postdoctoral opportunities in genomics and data-driven biology to further explore how code can solve real-world biological problems.\n\n\n\n\nCancer Genomics  Transcriptomics  Precision Medicine Functional Genomics\n\n\n\nPhD in Hematologic Oncology | 2022 - Present AIIMS, New Delhi, India\nMSc in Applied Genetics | 2017 - 2019 Bangalore University, India\nBSc in Genetics | 2014 - 2017 Ramaiah College, India"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications & Conferences",
-    "section": "",
-    "text": "2025\n\n\n\n\nLeons, G. K., Gupta, S.K., Sharma, P., et al. Decoding the ‘B-Other’ Black Box: Integrated RNA-Sequencing and Machine Learning Unveils Cryptic B-ALL Subtypes in a Single Centre Study. (In review)\nGupta, S.K., Leons, G. K., Sharma, P., et al. (2025). Application of Targeted RNA-Sequencing in High-Risk B-Cell Acute Lymphoblastic Leukemia (B-ALL): Identifying Fusions, IKZF1 Deletions, and CRLF2 Expression in an Indian Cohort. Int J Lab Hematol. doi:10.1111/ijlh.14551\nSharma, P., Leons, G. K., et al. (2025). Gene expression signature of IKZF1 deleted B-cell acute lymphoblastic leukaemia reveals a unique regulation of MUC4. Br J Haematol. doi:10.1111/bjh.70014\nGupta, S.K., Leons, G. K. (2025). Genetics of B-Cell Acute Lymphoblastic Leukemia (B-ALL): Recent Updates and Indian Perspective. Indian J Hematol Blood Transfus.\n\n\n\n\nLeons, G. K., et al. (2023). Detection of a novel SNX2 gene breakpoint in the SNX2::ABL1 fusion transcript in Ph-like B-cell acute lymphoblastic leukemia. Pediatric Blood & Cancer. doi:10.1002/pbc.30546"
-  },
-  {
-    "objectID": "publications.html#book-chapters",
-    "href": "publications.html#book-chapters",
-    "title": "Publications & Conferences",
-    "section": "📚 Book Chapters",
-    "text": "📚 Book Chapters\n\n\n\n\n\n\n\nGupta, S. K., & Leons, G. K. (2025). “Molecular Diagnostics”. In Manual of Hematology (pp. 158-169). Jaypee Brothers Medical Publishers.\nGupta, S. K., & Leons, G. K. (2025). “Diagnosis of Ph-like B-ALL: The Ideal Approach in the Indian Setting”. In Recent Advances in Hematology-5 (pp. 92-103). Jaypee Brothers Medical Publishers."
-  },
-  {
-    "objectID": "index.html#education-interests",
-    "href": "index.html#education-interests",
-    "title": "Gadha Krishna Leons",
-    "section": "Education & Interests",
-    "text": "Education & Interests\n\n\nInterests\n\nCancer Genomics (B-ALL Subtyping)\nTranscriptomics (RNA-Seq Analysis)\nPrecision Medicine\nFunctional Genomics (CRISPR-Cas9)\n\n\n\nEducation\nPhD in Hematologic Oncology | 2022 - Present AIIMS, New Delhi, India\nMSc in Applied Genetics | 2017 - 2019 Bangalore University, India"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Gadha Krishna Leons",
-    "section": "",
-    "text": "I am a PhD Scholar at the All India Institute of Medical Sciences (AIIMS), New Delhi, operating at the intersection of Molecular Biology and Bioinformatics.\nWith a strong foundation in bench-based cancer research, I have pivoted to computational biology—and I am loving every minute of it. My current work integrates transcriptomics (RNA-Seq), machine learning, and clinical data to decipher the molecular landscape of B-cell Acute Lymphoblastic Leukemia (B-ALL).\nI am analyzing expression-based RNA-Seq data from a large Indian B-ALL cohort to reveal subtype-specific expression patterns, fusion events, and transcriptomic profiles. My ultimate goal is to uncover diagnostic and prognostic biomarkers that can improve treatment strategies.\nI am actively seeking Postdoctoral opportunities in genomics and data-driven biology to further explore how code can solve real-world biological problems.\n\n\n\n\nCancer Genomics  Transcriptomics  Precision Medicine Functional Genomics\n\n\n\nPhD in Hematologic Oncology | 2022 - Present AIIMS, New Delhi, India\nMSc in Applied Genetics | 2017 - 2019 Bangalore University, India\nBSc in Genetics | 2014 - 2017 Ramaiah College, India"
-  },
-  {
-    "objectID": "research.html#technical-skills",
-    "href": "research.html#technical-skills",
+    "objectID": "research.html#technical-expertise",
+    "href": "research.html#technical-expertise",
     "title": "Research & Skills",
     "section": "",
-    "text": "RNA-Seq Analysis Differential Gene Expression WGCNA Fusion Detection Protein Structure Modeling Molecular Docking\n\n\n\nR (Advanced) Python (Learning) Linux/Bash Snakemake Git/GitHub HPC\n\n\n\nFlow Cytometry RT-qPCR MLPA Cell Culture CRISPR-Cas9 Microinjection"
+    "text": "RNA-Seq Analysis\nDifferential Gene Expression\nWGCNA Network Analysis\nFusion Detection\nProtein Structure Modeling\nMolecular Docking\n\n\n\n\n\n\n\nR (Advanced)\nPython (Intermediate)\nLinux / Unix\nSnakemake Pipelines\nGit / Version Control\nHPC Workflows\n\n\n\n\n\n\n\nFlow Cytometry\nRT-qPCR\nMLPA\nMammalian Cell Culture\nCRISPR-Cas9 Editing\nMicroinjection"
   },
   {
     "objectID": "research.html#methodologies-concepts",
@@ -70,18 +28,46 @@
     "text": "Current Projects\n\n1. Transcriptomic Landscape of Indian B-ALL\n\nObjective: To characterize the genetic profile of B-ALL in the Indian population using RNA-Seq.\nRole: Lead researcher; performed QC, alignment, fusion calling, and downstream statistical analysis.\nOutcome: Identified novel fusion partners and subtype-specific expression signatures.\n\n\n\n2. Predictive Modeling for High-Risk Leukemia\n\nObjective: Developing a classifier to stratify patients into risk groups based on gene expression.\nTools: R (Caret, RandomForest), Survival Analysis."
   },
   {
-    "objectID": "research.html#technical-expertise",
-    "href": "research.html#technical-expertise",
-    "title": "Research & Skills",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gadha Krishna Leons",
     "section": "",
-    "text": "RNA-Seq Analysis\nDifferential Gene Expression\nWGCNA Network Analysis\nFusion Detection\nProtein Structure Modeling\nMolecular Docking\n\n\n\n\n\n\n\nR (Advanced)\nPython (Intermediate)\nLinux / Unix\nSnakemake Pipelines\nGit / Version Control\nHPC Workflows\n\n\n\n\n\n\n\nFlow Cytometry\nRT-qPCR\nMLPA\nMammalian Cell Culture\nCRISPR-Cas9 Editing\nMicroinjection"
+    "text": "I am a PhD Scholar at the All India Institute of Medical Sciences (AIIMS), New Delhi, operating at the intersection of Molecular Biology and Bioinformatics.\nWith a strong foundation in bench-based cancer research, I have pivoted to computational biology—and I am loving every minute of it. My current work integrates transcriptomics (RNA-Seq), machine learning, and clinical data to decipher the molecular landscape of B-cell Acute Lymphoblastic Leukemia (B-ALL).\nI am analyzing expression-based RNA-Seq data from a large Indian B-ALL cohort to reveal subtype-specific expression patterns, fusion events, and transcriptomic profiles. My ultimate goal is to uncover diagnostic and prognostic biomarkers that can improve treatment strategies.\nI am actively seeking Postdoctoral opportunities in genomics and data-driven biology to further explore how code can solve real-world biological problems.\n\n\n\n\nCancer Genomics  Transcriptomics  Precision Medicine Functional Genomics\n\n\n\nPhD in Hematologic Oncology | 2022 - Present AIIMS, New Delhi, India\nMSc in Applied Genetics | 2017 - 2019 Bangalore University, India\nBSc in Genetics | 2014 - 2017 Ramaiah College, India"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Gadha Krishna Leons",
+    "section": "",
+    "text": "I am a PhD Scholar at the All India Institute of Medical Sciences (AIIMS), New Delhi, operating at the intersection of Molecular Biology and Bioinformatics.\nWith a strong foundation in bench-based cancer research, I have pivoted to computational biology—and I am loving every minute of it. My current work integrates transcriptomics (RNA-Seq), machine learning, and clinical data to decipher the molecular landscape of B-cell Acute Lymphoblastic Leukemia (B-ALL).\nI am analyzing expression-based RNA-Seq data from a large Indian B-ALL cohort to reveal subtype-specific expression patterns, fusion events, and transcriptomic profiles. My ultimate goal is to uncover diagnostic and prognostic biomarkers that can improve treatment strategies.\nI am actively seeking Postdoctoral opportunities in genomics and data-driven biology to further explore how code can solve real-world biological problems.\n\n\n\n\nCancer Genomics  Transcriptomics  Precision Medicine Functional Genomics\n\n\n\nPhD in Hematologic Oncology | 2022 - Present AIIMS, New Delhi, India\nMSc in Applied Genetics | 2017 - 2019 Bangalore University, India\nBSc in Genetics | 2014 - 2017 Ramaiah College, India"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications & Conferences",
+    "section": "",
+    "text": "Leons, G. K., Gupta, S.K., Sharma, P., et al. Decoding the ‘B-Other’ Black Box: Integrated RNA-Sequencing and Machine Learning Unveils Cryptic B-ALL Subtypes in a Single Centre Study. (In review)\n\n\n\n\n\nGupta, S.K., Leons, G. K., Sharma, P., et al. (2025). Application of Targeted RNA-Sequencing in High-Risk B-Cell Acute Lymphoblastic Leukemia (B-ALL): Identifying Fusions, IKZF1 Deletions, and CRLF2 Expression in an Indian Cohort. Int J Lab Hematol. doi:10.1111/ijlh.14551\nSharma, P., Leons, G. K., et al. (2025). Gene expression signature of IKZF1 deleted B-cell acute lymphoblastic leukaemia reveals a unique regulation of MUC4. Br J Haematol. doi:10.1111/bjh.70014\nGupta, S.K., Leons, G. K. (2025). Genetics of B-Cell Acute Lymphoblastic Leukemia (B-ALL): Recent Updates and Indian Perspective. Indian J Hematol Blood Transfus.\n\n\n\n\n\nLeons, G. K., et al. (2023). Detection of a novel SNX2 gene breakpoint in the SNX2::ABL1 fusion transcript in Ph-like B-cell acute lymphoblastic leukemia. Pediatric Blood & Cancer. doi:10.1002/pbc.30546"
   },
   {
     "objectID": "publications.html#journal-publications",
     "href": "publications.html#journal-publications",
     "title": "Publications & Conferences",
     "section": "",
-    "text": "2025\n\n\n\n\nLeons, G. K., Gupta, S.K., Sharma, P., et al. Decoding the ‘B-Other’ Black Box: Integrated RNA-Sequencing and Machine Learning Unveils Cryptic B-ALL Subtypes in a Single Centre Study. (In review)\nGupta, S.K., Leons, G. K., Sharma, P., et al. (2025). Application of Targeted RNA-Sequencing in High-Risk B-Cell Acute Lymphoblastic Leukemia (B-ALL): Identifying Fusions, IKZF1 Deletions, and CRLF2 Expression in an Indian Cohort. Int J Lab Hematol. doi:10.1111/ijlh.14551\nSharma, P., Leons, G. K., et al. (2025). Gene expression signature of IKZF1 deleted B-cell acute lymphoblastic leukaemia reveals a unique regulation of MUC4. Br J Haematol. doi:10.1111/bjh.70014\nGupta, S.K., Leons, G. K. (2025). Genetics of B-Cell Acute Lymphoblastic Leukemia (B-ALL): Recent Updates and Indian Perspective. Indian J Hematol Blood Transfus.\n\n\n\n\nLeons, G. K., et al. (2023). Detection of a novel SNX2 gene breakpoint in the SNX2::ABL1 fusion transcript in Ph-like B-cell acute lymphoblastic leukemia. Pediatric Blood & Cancer. doi:10.1002/pbc.30546"
+    "text": "Leons, G. K., Gupta, S.K., Sharma, P., et al. Decoding the ‘B-Other’ Black Box: Integrated RNA-Sequencing and Machine Learning Unveils Cryptic B-ALL Subtypes in a Single Centre Study. (In review)\n\n\n\n\n\nGupta, S.K., Leons, G. K., Sharma, P., et al. (2025). Application of Targeted RNA-Sequencing in High-Risk B-Cell Acute Lymphoblastic Leukemia (B-ALL): Identifying Fusions, IKZF1 Deletions, and CRLF2 Expression in an Indian Cohort. Int J Lab Hematol. doi:10.1111/ijlh.14551\nSharma, P., Leons, G. K., et al. (2025). Gene expression signature of IKZF1 deleted B-cell acute lymphoblastic leukaemia reveals a unique regulation of MUC4. Br J Haematol. doi:10.1111/bjh.70014\nGupta, S.K., Leons, G. K. (2025). Genetics of B-Cell Acute Lymphoblastic Leukemia (B-ALL): Recent Updates and Indian Perspective. Indian J Hematol Blood Transfus.\n\n\n\n\n\nLeons, G. K., et al. (2023). Detection of a novel SNX2 gene breakpoint in the SNX2::ABL1 fusion transcript in Ph-like B-cell acute lymphoblastic leukemia. Pediatric Blood & Cancer. doi:10.1002/pbc.30546"
+  },
+  {
+    "objectID": "publications.html#book-chapters",
+    "href": "publications.html#book-chapters",
+    "title": "Publications & Conferences",
+    "section": "📚 Book Chapters",
+    "text": "📚 Book Chapters\n\nGupta, S. K., & Leons, G. K. (2025). “Molecular Diagnostics”. In Manual of Hematology (pp. 158-169). Jaypee Brothers Medical Publishers.\nGupta, S. K., & Leons, G. K. (2025). “Diagnosis of Ph-like B-ALL: The Ideal Approach in the Indian Setting”. In Recent Advances in Hematology-5 (pp. 92-103). Jaypee Brothers Medical Publishers."
   },
   {
     "objectID": "publications.html#conference-presentations",

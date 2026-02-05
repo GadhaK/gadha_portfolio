@@ -8,8 +8,23 @@ title: "Research & Skills"
 
 ::: {.g-col-12 .g-col-md-4}
 <div class="skill-card">
+### 🧪 Wet Lab
+* Next Generation Sequencing (NGS), Illumina chemistry
+* Whole Transcriptome Sequencing (WTS)
+* Sanger Sequencing
+* Flow Cytometry
+* RT-qPCR
+* Multiplex Ligation-dependant Probe Amplification (MLPA)
+* Mammalian Cell Culture
+* CRISPR-Cas9 Editing
+* Microinjection
+</div>
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="skill-card">
 ### 🧬 Bioinformatics
-* RNA-Seq Analysis
+* RNA-Seq Data Analysis
 * Differential Gene Expression
 * WGCNA Network Analysis
 * Fusion Detection
@@ -21,24 +36,11 @@ title: "Research & Skills"
 ::: {.g-col-12 .g-col-md-4}
 <div class="skill-card">
 ### 💻 Computational
-* **R** (Advanced)
-* **Python** (Intermediate)
+* **R** 
+* **Python** 
 * **Linux / Unix**
-* Snakemake Pipelines
 * Git / Version Control
 * HPC Workflows
-</div>
-:::
-
-::: {.g-col-12 .g-col-md-4}
-<div class="skill-card">
-### 🧪 Wet Lab
-* Flow Cytometry
-* RT-qPCR
-* MLPA
-* Mammalian Cell Culture
-* CRISPR-Cas9 Editing
-* Microinjection
 </div>
 :::
 
@@ -53,7 +55,7 @@ I utilize a variety of computational approaches to extract biological meaning fr
 ::: {layout-ncol=2}
 
 ### Differential Gene Expression (DGE)
-Identifying significant transcriptional changes between leukemia subtypes is central to my work. I use **DESeq2** and **edgeR** to isolate differentially expressed genes (DEGs) that serve as potential biomarkers.
+Identifying significant transcriptional changes between leukemia subtypes. I use **DESeq2** and **edgeR** to identify differentially expressed genes (DEGs) that serve as potential biomarkers.
 
 ![*Sample Volcano Plot showing significant upregulation*](images/volcano.png)
 
@@ -68,11 +70,12 @@ Beyond single genes, I analyze gene networks to find clusters (modules) of highl
 
 ## Current Projects
 
-### 1. Transcriptomic Landscape of Indian B-ALL
+### Transcriptomic Landscape of Indian B-ALL
 * **Objective:** To characterize the genetic profile of B-ALL in the Indian population using RNA-Seq.
 * **Role:** Lead researcher; performed QC, alignment, fusion calling, and downstream statistical analysis.
 * **Outcome:** Identified novel fusion partners and subtype-specific expression signatures.
 
-### 2. Predictive Modeling for High-Risk Leukemia
-* **Objective:** Developing a classifier to stratify patients into risk groups based on gene expression.
-* **Tools:** R (Caret, RandomForest), Survival Analysis.
+### Profiling of predictive & prognostic molecular genetic aberrations in BCR::ABL1 negative B-ALL
+* **Objective:** To identify relevant pathways & genes which are dysregulated in high risk B-ALL and drug repurposing or docking for the potential candidates.
+* **Role:** Lead researcher; performed all the experiments and analysis.
+* **Outcome:** Identified prognostic biomarkers and drug candidates.
