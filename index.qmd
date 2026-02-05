@@ -8,15 +8,15 @@ about:
   image-width: 10em
   links:
     - icon: linkedin
-      href: https://www.linkedin.com/
+      href: https://www.linkedin.com/in/gadha-k-leons/
     - icon: github
-      href: https://github.com/yourusername
+      href: https://github.com/GadhaK
     - icon: google
-      href: https://scholar.google.com/
+      href: https://scholar.google.com/citations?user=t-dCJSkAAAAJ&hl=en
     - icon: book
-      href: https://www.researchgate.net/
+      href: https://www.researchgate.net/profile/Gadha-Krishna-Leons
     - icon: person-badge
-      href: https://orcid.org/
+      href: https://orcid.org/0000-0001-9141-0299
     - icon: envelope
       href: mailto:gadha.leons@gmail.com
 ---
