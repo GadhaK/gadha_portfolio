@@ -1,5 +1,6 @@
 ---
-title: "Gadha Krishna Leons"  # <--- CHANGED THIS
+title: "Gadha Krishna Leons"
+subtitle: "PhD Scholar <br> Cancer Genetics | Bioinformatics"
 image: profile.jpg
 about:
   template: trestles
@@ -7,40 +8,36 @@ about:
   image-width: 10em
   links:
     - icon: linkedin
-      text: LinkedIn
       href: https://www.linkedin.com/
     - icon: github
-      text: GitHub
       href: https://github.com/yourusername
     - icon: google
-      text: Google Scholar
       href: https://scholar.google.com/
     - icon: book
-      text: ResearchGate
       href: https://www.researchgate.net/
     - icon: person-badge
-      text: ORCID
       href: https://orcid.org/
     - icon: envelope
-      text: Email
       href: mailto:gadha.leons@gmail.com
 ---
 
-### About Me
+## About Me
 
-I am a **PhD Scholar** in Hematologic Oncology at the **All India Institute of Medical Sciences (AIIMS)**, New Delhi.
+I am a **PhD Scholar** at the **All India Institute of Medical Sciences (AIIMS)**, New Delhi, operating at the intersection of **Molecular Biology** and **Bioinformatics**.
 
-My work operates at the intersection of **Cancer Genetics** and **Bioinformatics**. I utilize high-throughput sequencing (RNA-Seq) and functional genomics to decipher the molecular landscape of **B-cell Acute Lymphoblastic Leukemia (B-ALL)**. My goal is to identify novel predictive biomarkers and therapeutic targets for high-risk, relapsed leukemia subtypes.
+With a strong foundation in bench-based cancer research, I have pivoted to computational biology—and I am loving every minute of it. My current work integrates **transcriptomics (RNA-Seq)**, machine learning, and clinical data to decipher the molecular landscape of **B-cell Acute Lymphoblastic Leukemia (B-ALL)**.
 
-I am currently seeking **Postdoctoral opportunities** to further explore cancer evolution using multi-omics approaches.
+I am analyzing expression-based RNA-Seq data from a large **Indian B-ALL cohort** to reveal subtype-specific expression patterns, fusion events, and transcriptomic profiles. My ultimate goal is to uncover diagnostic and prognostic biomarkers that can improve treatment strategies.
 
-------------------------------------------------------------------------
+I am actively seeking **Postdoctoral opportunities** in genomics and data-driven biology to further explore how code can solve real-world biological problems.
+
+--------------------------------------------------------------------------------
 
 ::::: grid
 ::: g-col-6
 #### Interests
 
-**Cancer Genomics** (B-ALL Subtyping)<br> **Transcriptomics** (RNA-Seq Analysis)<br> **Precision Medicine**<br> **Functional Genomics** (CRISPR-Cas9)
+**Cancer Genomics** <br> **Transcriptomics** <br> **Precision Medicine**<br> **Functional Genomics** 
 :::
 
 ::: g-col-6
@@ -53,3 +50,4 @@ I am currently seeking **Postdoctoral opportunities** to further explore cancer 
 **BSc in Genetics** \| 2014 - 2017<br> *Ramaiah College, India*
 :::
 :::::
+

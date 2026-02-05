@@ -4,22 +4,30 @@ project:
 
 website:
   title: "Gadha Krishna Leons"
-  search: true          # Adds the Search button
+  site-url: "https://gadhak.github.io/gadha_portfolio/"
+  
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: research.qmd
-        text: Research & Skills
-      - href: publications.qmd
-        text: Publications
-    # We removed the 'right' section with LinkedIn/Mail icons entirely.
-    # The 'Moon' icon appears automatically because we define two themes below.
+    background: "#453c5c"  # Muted Dark Purple
+    foreground: "#ffffff"  # White text
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Research & Skills
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: CV
+        href: cv.pdf
+        
+      # Icons removed. The Dark Mode toggle appears automatically here.
 
 format:
   html:
-    theme:
-      light: cosmo      # The "Sun" mode
-      dark: slate       # The "Moon" mode
+    theme: 
+      light: cosmo  # The standard look
+      dark: slate   # The dark mode look
     css: styles.css
-    toc: false          # REMOVES the "On this page" right panel
+    mainfont: "Nunito Sans"
+    monofont: "Fira Code"
+    toc: false
+    

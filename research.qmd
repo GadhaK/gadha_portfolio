@@ -1,17 +1,78 @@
 ---
-  title: "Research & Skills"
+title: "Research & Skills"
 ---
-  
 
-  
-  | Domain | Skills |
-  |:---|:---|
-  | **Bioinformatics** | RNA-Seq analysis, Differential Gene Expression, WGCNA, Fusion Detection, Protein Structure Modeling, Docking |
-  | **Programming** | R, Python, Linux/Bash for NGS workflows |
-  | **Wet Lab** |  RNA-Sequencing, Flow Cytometry, RT-qPCR, MLPA, Cell Culture, CRISPR-Cas9, Microinjection |
-  
- 
-  
-  * **Oral Presentation:** *JSH 2025 (87th Annual Meeting)*, Kobe, Japan - Oral presentation on B-ALL research.
-* **Abstract:** *ICKSH 2026* (Upcoming).
-* **Poster:** Whole Transcriptome Sequencing Uncovers Key Coding and Non-Coding Biomarkers in IKZF1Plus B-ALL (*EHA 2025*).
+## Technical Expertise
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+<div class="skill-card">
+### 🧬 Bioinformatics
+* RNA-Seq Analysis
+* Differential Gene Expression
+* WGCNA Network Analysis
+* Fusion Detection
+* Protein Structure Modeling
+* Molecular Docking
+</div>
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="skill-card">
+### 💻 Computational
+* **R** (Advanced)
+* **Python** (Intermediate)
+* **Linux / Unix**
+* Snakemake Pipelines
+* Git / Version Control
+* HPC Workflows
+</div>
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="skill-card">
+### 🧪 Wet Lab
+* Flow Cytometry
+* RT-qPCR
+* MLPA
+* Mammalian Cell Culture
+* CRISPR-Cas9 Editing
+* Microinjection
+</div>
+:::
+
+:::
+
+---
+
+## Methodologies & Concepts
+
+I utilize a variety of computational approaches to extract biological meaning from raw sequencing data.
+
+::: {layout-ncol=2}
+
+### Differential Gene Expression (DGE)
+Identifying significant transcriptional changes between leukemia subtypes is central to my work. I use **DESeq2** and **edgeR** to isolate differentially expressed genes (DEGs) that serve as potential biomarkers.
+
+![*Sample Volcano Plot showing significant upregulation*](images/volcano.png)
+
+### WGCNA Network Analysis
+Beyond single genes, I analyze gene networks to find clusters (modules) of highly correlated genes. This helps in identifying "hub genes" that drive specific cancer phenotypes.
+
+![*Module-Trait Relationship Heatmap*](images/network.png)
+
+:::
+
+---
+
+## Current Projects
+
+### 1. Transcriptomic Landscape of Indian B-ALL
+* **Objective:** To characterize the genetic profile of B-ALL in the Indian population using RNA-Seq.
+* **Role:** Lead researcher; performed QC, alignment, fusion calling, and downstream statistical analysis.
+* **Outcome:** Identified novel fusion partners and subtype-specific expression signatures.
+
+### 2. Predictive Modeling for High-Risk Leukemia
+* **Objective:** Developing a classifier to stratify patients into risk groups based on gene expression.
+* **Tools:** R (Caret, RandomForest), Survival Analysis.

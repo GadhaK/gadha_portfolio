@@ -1,104 +1,217 @@
 /* =========================================
-   1. LAYOUT & WIDTH FIXES
+   1. FONTS & VARIABLES
    ========================================= */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&family=Roboto+Slab:wght@700&display=swap');
 
-/* Make the main page container almost full width */
-.quarto-container {
-    max-width: 95% !important; 
-    padding-left: 20px !important;
-    padding-right: 20px !important;
-}
-
-/* Force the content to ignore the sidebar space completely */
-.page-columns .content {
-    grid-column: page-start / page-end !important;
-}
-
-/* Remove the maximum width limit on the "About Me" text block */
-.about-contents {
-    max-width: none !important;
-}
-
-/* Hide the right sidebar ("On this page") */
-#quarto-margin-sidebar {
-    display: none !important;
+:root {
+    --purple-muted: #453c5c;   
+    --purple-accent: #6a4c93;  
+    --lavender-bg: #FAF8FC;  /* <-- NEW: Much lighter, barely-there lavender */
+    --text-dark: #2c2c2c;
+    --skill-bg: #e1bee7;      /* Background for skill pills */
 }
 
 /* =========================================
-   2. LINK BUTTONS (CLEAN OUTLINE STYLE)
+   2. BODY STYLING
    ========================================= */
+body {
+    font-family: 'Roboto', sans-serif; 
+    font-size: 0.95rem; 
+    line-height: 1.6;
+}
 
-/* This turns the link container into a vertical column */
+body.quarto-light {
+    background-color: var(--lavender-bg) !important;
+    color: var(--text-dark);
+}
+
+body.quarto-dark {
+    color: #f0f0f0; 
+}
+
+/* =========================================
+   3. SIDEBAR & TYPOGRAPHY
+   ========================================= */
+h1.title {
+    font-family: 'Roboto Slab', serif; 
+    font-size: 1.8rem !important; 
+    font-weight: 700;
+    margin-bottom: 0.3rem !important;
+    line-height: 1.2;
+}
+
+p.subtitle {
+    font-size: 0.9rem !important; 
+    margin-bottom: 1rem !important;
+    font-weight: 400;
+    line-height: 1.4;
+    white-space: nowrap; 
+}
+
+.about-image {
+    border: 3px solid white; 
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+}
+
+/* Headings Color Logic */
+body.quarto-light h1.title, body.quarto-light p.subtitle, 
+body.quarto-light h2, body.quarto-light h3, body.quarto-light h4 {
+    color: var(--purple-muted) !important;
+}
+body.quarto-dark h1.title, body.quarto-dark p.subtitle,
+body.quarto-dark h2, body.quarto-dark h3, body.quarto-dark h4 {
+    color: #d1c4e9 !important; 
+}
+
+h2, h3 {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    margin-top: 1.5rem;
+}
+
+/* =========================================
+   4. LINKS & ICONS
+   ========================================= */
+a {
+    color: var(--purple-accent);
+    text-decoration: none;
+    font-weight: 400;
+}
+body.quarto-dark a { color: #b39ddb; }
+a:hover { text-decoration: underline; }
+
 .about-links {
     display: flex !important;
-    flex-direction: column !important; 
-    align-items: center !important;    
-    width: 100% !important;
-}
-
-
-
-/* Style the individual buttons to match Image 3 */
-.about-link {
-    width: 80% !important; 
-    margin-bottom: 5px !important; 
+    flex-direction: row !important;
     justify-content: center !important;
+    flex-wrap: wrap; 
+    gap: 8px !important; 
+    margin-top: 10px !important;
 }
-/* Optional: Make the buttons look cleaner (less boxy) */
+
 .about-link {
-  border-radius: 20px;
-}    
-    /* DESIGN CHANGE: Minimalist Outline */
-    /*background-color: transparent !important; /* No Blue Background */
-    /*color: #444 !important; /* Dark Grey Text */
-    /*border: 1px solid #ccc !important; /* Thin Grey Border */
-    /*border-radius: 5px !important; /* Slightly rounded corners (not full pill) */
-    
-    /*padding: 8px 15px !important;
-    /*text-decoration: none !important;
-    /*text-transform: uppercase; /* Optional: Makes text look professional */
-    /*font-size: 14px !important;
-    /*transition: all 0.2s ease;
+    border: none !important;
+    background-color: transparent !important;
+    padding: 0 !important;
 }
 
-/* Hover Effect: Turns light grey when you touch it */
+body.quarto-light .about-link { color: var(--purple-muted) !important; }
+body.quarto-dark .about-link { color: #e0e0e0 !important; }
+
+.about-link .bi {
+    font-size: 1.2rem !important;
+}
+
 .about-link:hover {
-    background-color: #f0f0f0 !important;
-    border-color: #999 !important;
-    color: #000 !important;
+    transform: translateY(-3px);
+    color: var(--purple-accent) !important;
 }
 
 /* =========================================
-   3. GENERAL TEXT STYLING
+   SKILL CARDS (The Professional Alternative)
    ========================================= */
 
-body {
-    font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    font-size: 13px; 
-    /*color: #212529; 
-    background-color: #fff; /* White background looks cleaner for this style */
-/*}
+.skill-card {
+    background-color: white;
+    border-top: 4px solid var(--purple-muted); /* Purple accent on top */
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05); /* Very subtle shadow */
+    height: 100%; /* Makes all cards same height */
+    transition: transform 0.2s ease;
+}
 
-/*h1, h2, h3 {
-    color: #222; /* Darker headings (almost black) to match the clean look */
-/*    font-weight: 700;
-}*/
+.skill-card:hover {
+    transform: translateY(-5px); /* Floats up slightly on hover */
+    box-shadow: 0 8px 15px rgba(106, 27, 154, 0.1);
+}
+
+.skill-card h3 {
+    margin-top: 0 !important;
+    font-size: 1.2rem;
+    color: var(--purple-muted);
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.skill-card ul {
+    list-style: none; /* Remove bullet points */
+    padding-left: 0;
+    margin: 0;
+}
+
+.skill-card li {
+    margin-bottom: 8px;
+    font-size: 0.95rem;
+    color: var(--text-dark);
+    display: flex;
+    align-items: center;
+}
+
+/* Add a tiny purple dot before each item */
+.skill-card li::before {
+    content: "•";
+    color: var(--purple-accent);
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+}
 
 /* =========================================
-   4. CUSTOM TRESTLES WIDTHS
+   6. LAYOUT FIXES
    ========================================= */
+.quarto-container {
+    max-width: 98% !important; 
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px !important; 
+    padding-right: 10px !important; 
+}
+
+.quarto-about-trestles .about-contents {
+    text-align: justify !important; 
+}
 
 @media (min-width: 992px) {
-  /* Force the Left Panel (Photo/Links) to be narrower */
-  .quarto-about-trestles .about-entity {
-    width: 25% !important;  /* Was roughly 35-40% by default */
-    max-width: 280px !important; 
-    flex-basis: auto !important;
-  }
+    .quarto-about-trestles .about-entity {
+        width: 32% !important;
+        max-width: 32% !important;
+        flex-basis: 32% !important;
+        padding-right: 15px; 
+    }
 
-  /* Force the Right Panel (Bio) to be wider */
-  .quarto-about-trestles .about-contents {
-    width: 70% !important;  /* Takes up the remaining space */
-    flex-basis: auto !important;
-  }
+    .quarto-about-trestles .about-contents {
+        width: 68% !important;
+        max-width: 68% !important;
+        flex-basis: 68% !important;
+    }
 }
+
+/* =========================================
+   7. BADGES (For Publications Page)
+   ========================================= */
+.badge {
+    padding: 5px 10px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 12px;
+    display: inline-block;
+    text-align: center;
+    width: 100%; 
+    line-height: 1;
+    margin-top: 2px;
+}
+
+/* Remove the vertical line from Callout blocks */
+.callout {
+    border-left: none !important;
+}
+
+/* Optional: If you want to remove the grey background too and make it plain text */
+/* .callout-note {
+    background-color: transparent !important;
+} 
+*/

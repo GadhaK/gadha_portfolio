@@ -1,22 +1,83 @@
 ---
-  title: "Publications"
+title: "Publications & Conferences"
 ---
-  
-  
-  **2025**
-  
-  * **Leons, G. K.**, Sharma, P., et al. (2025). Application of Targeted RNA-Sequencing in High-Risk B-Cell Acute Lymphoblastic Leukemia (B-ALL): Identifying Fusions, IKZF1 Deletions, and CRLF2 Expression in an Indian Cohort. *Int J Lab Hematol*. [doi:10.1111/ijlh.14551](https://doi.org/10.1111/ijlh.14551) 
 
-* Sharma, P., **Leons, G. K.**, et al. (2025). Gene expression signature of IKZF1 deleted B-cell acute lymphoblastic leukaemia reveals a unique regulation of MUC4. *Br J Haematol*. [doi:10.1111/bjh.70014](https://doi.org/10.1111/bjh.70014) [cite: 31, 32]
+## 📄 Journal Publications
 
-* Gupta, S.K., **Leons, G. K.** (2025). Genetics of B-Cell Acute Lymphoblastic Leukemia (B-ALL): Recent Updates and Indian Perspective. *Indian J Hematol Blood Transfus*. 
+### 2026
 
-**2023**
-  
-  * **Leons, G. K.**, et al. (2023). Detection of a novel SNX2 gene breakpoint in the SNX2::ABL1 fusion transcript in Ph-like B-cell acute lymphoblastic leukemia. *Pediatric Blood & Cancer*. [doi:10.1002/pbc.30546](https://doi.org/10.1002/pbc.30546)
+* **Leons, G. K.**, Gupta, S.K., Sharma, P., et al. Decoding the 'B-Other' Black Box: Integrated RNA-Sequencing and Machine Learning Unveils Cryptic B-ALL Subtypes in a Single Centre Study. (In review)
 
-## Book Chapters
+### 2025
 
-* Gupta, S. K., & **Leons, G. K.** (2025). "Molecular Diagnostics". In *Manual of Hematology* (pp. 158-169). Jaypee Brothers Medical Publishers. 
+* Gupta, S.K., **Leons, G. K.**, Sharma, P., et al. (2025). Application of Targeted RNA-Sequencing in High-Risk B-Cell Acute Lymphoblastic Leukemia (B-ALL): Identifying Fusions, IKZF1 Deletions, and CRLF2 Expression in an Indian Cohort. *Int J Lab Hematol*. [doi:10.1111/ijlh.14551](https://doi.org/10.1111/ijlh.14551)
 
-* Gupta, S. K., & **Leons, G. K.** (2025). "Diagnosis of Ph-like B-ALL: The Ideal Approach in the Indian Setting". In *Recent Advances in Hematology-5* (pp. 92-103). Jaypee Brothers Medical Publishers. 
+* Sharma, P., **Leons, G. K.**, et al. (2025). Gene expression signature of IKZF1 deleted B-cell acute lymphoblastic leukaemia reveals a unique regulation of MUC4. *Br J Haematol*. [doi:10.1111/bjh.70014](https://doi.org/10.1111/bjh.70014)
+
+* Gupta, S.K., **Leons, G. K.** (2025). Genetics of B-Cell Acute Lymphoblastic Leukemia (B-ALL): Recent Updates and Indian Perspective. *Indian J Hematol Blood Transfus*.
+
+### 2023
+
+* **Leons, G. K.**, et al. (2023). Detection of a novel SNX2 gene breakpoint in the SNX2::ABL1 fusion transcript in Ph-like B-cell acute lymphoblastic leukemia. *Pediatric Blood & Cancer*. [doi:10.1002/pbc.30546](https://doi.org/10.1002/pbc.30546)
+
+## 📚 Book Chapters
+
+* Gupta, S. K., & **Leons, G. K.** (2025). "Molecular Diagnostics". In *Manual of Hematology* (pp. 158-169). Jaypee Brothers Medical Publishers.
+
+* Gupta, S. K., & **Leons, G. K.** (2025). "Diagnosis of Ph-like B-ALL: The Ideal Approach in the Indian Setting". In *Recent Advances in Hematology-5* (pp. 92-103). Jaypee Brothers Medical Publishers.
+
+<br>
+
+## 🎙️ Conference Presentations
+
+::: {.grid}
+::: {.g-col-2}
+<span class="badge rounded-pill bg-secondary" style="background-color: #95a5a6; color: white; width: 100%;">Poster</span>
+:::
+::: {.g-col-10}
+**The Seeds of Relapse: Uncovering the Dormant Transcriptomic Signatures of Future Relapse at Diagnosis**
+*ICKSH 2026 (Korean Society of Hematology)*
+📍 Seoul, South Korea | 📅 Upcoming
+:::
+:::
+
+<hr style="border-top: 1px dashed #ccc; margin: 10px 0;">
+
+::: {.grid}
+::: {.g-col-2}
+<span class="badge rounded-pill bg-purple" style="background-color: #6a4c93; color: white; width: 100%;">Oral</span>
+:::
+::: {.g-col-10}
+**Transcriptomic Signatures and Fusion Landscape in Relapsed B-ALL: Insights from RNA-Sequencing**
+*JSH 2025 (87th Annual Meeting of the Japanese Society of Hematology)*
+📍 Kobe, Japan | 📅 Oct 2025
+:::
+:::
+
+<hr style="border-top: 1px dashed #ccc; margin: 10px 0;">
+
+::: {.grid}
+::: {.g-col-2}
+<span class="badge rounded-pill bg-secondary" style="background-color: #95a5a6; color: white; width: 100%;">Poster</span>
+:::
+::: {.g-col-10}
+**Transcriptomic Profiling of CDKN2A/B-Deleted B-ALL Reveals Key Coding and Non-Coding Biomarkers**
+*ESMO-MAP 2025 (Molecular Analysis for Precision Oncology Congress)*
+📍 Paris, France | 📅 Sept 2025
+<br>
+*Published in: ESMO Open, Vol 10, 105627* [[DOI]](https://doi.org/10.1016/j.esmoop.2025.105627)
+:::
+:::
+
+<hr style="border-top: 1px dashed #ccc; margin: 10px 0;">
+
+::: {.grid}
+::: {.g-col-2}
+<span class="badge rounded-pill bg-purple" style="background-color: #6a4c93; color: white; width: 100%;">Oral</span>
+:::
+::: {.g-col-10}
+**Adverse Clinical Impact of *RB1* Gene Deletions Alone and with Concurrent *IKZF1* Gene Deletions in Pediatric B-ALL**
+*ICKSH 2024 (65th Annual Meeting of the Korean Society of Hematology)*
+📍 Seoul, South Korea | 📅 March 2024
+:::
+:::
