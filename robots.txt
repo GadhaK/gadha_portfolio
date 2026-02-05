@@ -1,1 +1,1 @@
-Sitemap: https://GadhaK.github.io/gadha_portfolio/sitemap.xml
+Sitemap: https://gadhak.github.io/gadha_portfolio/sitemap.xml
