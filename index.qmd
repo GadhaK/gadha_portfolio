@@ -1,6 +1,6 @@
 ---
 title: "Gadha Krishna Leons"
-subtitle: "PhD Scholar <br> Cancer Genetics | Bioinformatics"
+subtitle: "PhD Scholar <br> Cancer Genomics | Bioinformatics"
 image: profile.jpg
 about:
   template: trestles
