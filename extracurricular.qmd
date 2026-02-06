@@ -1,0 +1,64 @@
+---
+title: "Beyond Science"
+---
+
+## <i class="bi bi-award"></i> Certifications & Training
+
+#### Bioinformatics & Genomics
+::: {.callout-note appearance="minimal" icon=false}
+* **NASA GeneLab** | *GL4U: RNA Sequencing Module Set*
+  * *Completed:* Aug 2025 | [Certificate Linked via NASA OSDR]
+
+* **NASA GeneLab** | *GL4U: Introduction Module Set*
+  * *Completed:* July 2025
+
+* **Genetic Counseling Certification**
+  * *IMAeVarsity & Martin Luther Christian University*
+:::
+
+#### Wet Lab Techniques
+::: {.callout-note appearance="minimal" icon=false}
+* **Engineering Zebrafish with CRISPR Tools**
+  * *CSIR-CCMB* | March 2020
+
+* **Animal Cell Culture Techniques**
+  * *CellKraft Biotech Pvt. Ltd* | Feb 2020
+:::
+
+#### National Qualifications
+::: {.callout-note appearance="minimal" icon=false}
+* **JGEEBILS 2021** | Qualified (Ref: GS2021BIOPHD030224)
+
+* **GATE 2020 (Life Sciences)** | AIR 1289 (Score: 475)
+:::
+
+---
+
+## <i class="bi bi-brush"></i> Creative Pursuits
+
+### "Veiled Screams of the Night"
+*Published Poetry Collection*
+
+Writing is my medium to explore emotions beyond the rigid logic of science. This collection reflects my journey through verse.
+
+[View Book](https://www.amazon.in/VEILED-SCREAMS-NIGHT-Gadha/dp/1005519978){target="_blank" style="text-decoration: none; font-weight: bold; color: #6a4c93;"}
+
+---
+
+### Hobbies & Interests
+When I am not debugging R code or running experiments, I recharge through:
+
+::: {.grid}
+::: {.g-col-6 .g-col-md-4}
+* <i class="bi bi-book"></i> Reading & Writing
+* <i class="bi bi-music-note-beamed"></i> Violin
+:::
+::: {.g-col-6 .g-col-md-4}
+* <i class="bi bi-music-player"></i> Listening to Music
+* <i class="bi bi-flower1"></i> Crochet
+:::
+::: {.g-col-6 .g-col-md-4}
+* <i class="bi bi-stars"></i> Classical Dance
+* <i class="bi bi-palette"></i> Painting
+:::
+:::

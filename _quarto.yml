@@ -16,6 +16,8 @@ website:
         href: research.qmd
       - text: Publications
         href: publications.qmd
+      - text: Beyond Science
+        href: extracurricular.qmd
       - text: CV
         href: cv.pdf
         
