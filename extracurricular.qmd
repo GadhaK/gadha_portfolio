@@ -7,7 +7,7 @@ title: "Beyond the lab"
 #### Bioinformatics & Genomics
 ::: {.callout-note appearance="minimal" icon=false}
 * **NASA GeneLab** | *GL4U: RNA Sequencing Module Set*
-  * *Completed:* Aug 2025 | [Certificate Linked via NASA OSDR]
+  * *Completed:* Aug 2025
 
 * **NASA GeneLab** | *GL4U: Introduction Module Set*
   * *Completed:* July 2025
@@ -38,8 +38,6 @@ title: "Beyond the lab"
 
 ### "Veiled Screams of the Night"
 *Published Poetry Collection*
-
-Writing is my medium to explore emotions beyond the rigid logic of science. This collection reflects my journey through verse.
 
 [View Book](https://www.amazon.in/VEILED-SCREAMS-NIGHT-Gadha/dp/1005519978){target="_blank" style="text-decoration: none; font-weight: bold; color: #6a4c93;"}
 
