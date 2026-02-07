@@ -5,6 +5,9 @@ project:
 website:
   title: "Gadha Krishna Leons"
   site-url: "https://gadhak.github.io/gadha_portfolio/"
+  description: "Academic Portfolio of Gadha Krishna Leons, PhD Scholar in Cancer Genomics & Bioinformatics at AIIMS, New Delhi."
+  
+  # (Keep your navbar settings here...)
   
   navbar:
     background: "#453c5c"  # Muted Dark Purple
