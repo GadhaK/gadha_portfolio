@@ -18,7 +18,7 @@
     "href": "research.html#methodologies-concepts",
     "title": "Research & Skills",
     "section": "Methodologies & Concepts",
-    "text": "Methodologies & Concepts\nI utilize a variety of computational approaches to extract biological meaning from raw sequencing data.\n\n\n\n\n\n\nDifferential Gene Expression (DGE)\nIdentifying significant transcriptional changes between leukemia subtypes. I use DESeq2 and edgeR to identify differentially expressed genes (DEGs) that serve as potential biomarkers.\n\n\n\n\n\nSample Volcano Plot showing significant upregulation\n\n\n\n\n\n\nWGCNA Network Analysis\nBeyond single genes, I analyze gene networks to find clusters (modules) of highly correlated genes. This helps in identifying “hub genes” that drive specific cancer phenotypes.\n\n\n\n\n\nModule-Trait Relationship Heatmap"
+    "text": "Methodologies & Concepts\nI utilize a variety of computational approaches to extract biological meaning from raw sequencing data.\n\n\n\nDifferential Gene Expression (DGE)\nIdentifying significant transcriptional changes between leukemia subtypes. I use DESeq2 and edgeR to identify differentially expressed genes (DEGs) that serve as potential biomarkers.\n\n\n\n\n\nSample Volcano Plot showing significant upregulation\n\n\n\n\n\n\nWGCNA Network Analysis\nBeyond single genes, I analyze gene networks to find clusters (modules) of highly correlated genes. This helps in identifying “hub genes” that drive specific cancer phenotypes.\n\n\n\n\n\nModule-Trait Relationship Heatmap"
   },
   {
     "objectID": "research.html#current-projects",
