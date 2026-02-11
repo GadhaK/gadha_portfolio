@@ -22,7 +22,7 @@ website:
       - text: Beyond Science
         href: extracurricular.qmd
       - text: CV
-        href: cv.pdf?v=3
+        href: cv.pdf?v=4
         
       # Icons removed. The Dark Mode toggle appears automatically here.
 

@@ -6,7 +6,9 @@ title: "Publications & Conferences"
 
 ### 2026
 
-* **Leons, G. K.**, Gupta, S.K., Sharma, P., et al. Decoding the 'B-Other' Black Box: Integrated RNA-Sequencing and Machine Learning Unveils Cryptic B-ALL Subtypes in a Single Centre Study. (In review)
+* **Krishna Leons, G.**, Gupta, S.K., Sharma, P., et al. Decoding the 'B-Other' Black Box: Integrated RNA-Sequencing and Machine Learning Unveils Cryptic B-ALL Subtypes in a Single Centre Study. (In review)
+
+* **Krishna Leons, G.**, Sharma, P., Gupta, S.K., et al. Concurrent Retinoblastoma 1 (RB1) and IKZF1 Deletions Have Adverse Outcome in Childhood B-Cell Acute Lymphoblastic Leukemia (B-ALL). *Int J Lab Hematol*. [doi:10.1111/ijlh.70069](https://doi.org/10.1111/ijlh.70069)
 
 ### 2025
 
