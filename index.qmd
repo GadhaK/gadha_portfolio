@@ -23,13 +23,10 @@ about:
 
 ## About Me
 
-I am a **PhD Scholar** at the **All India Institute of Medical Sciences (AIIMS)**, New Delhi, operating at the intersection of **Molecular Biology** and **Bioinformatics**.
+I am a **PhD Scholar** at the **All India Institute of Medical Sciences (AIIMS)**, New Delhi, specializing in the intersection of **Molecular Biology** and **Bioinformatics**.
+My research work integrates **transcriptomics (RNA-Seq)** and clinical data to decipher the molecular landscape of **B-cell Acute Lymphoblastic Leukemia (B-ALL)** within the Indian population. By integrating large-scale RNA-Seq data with clinical outcomes, my aim is to uncover diagnostic and prognostic biomarkers that can improve treatment strategies.
 
-With a strong foundation in bench-based cancer research, I have pivoted to computational biology—and I am loving every minute of it. My current work integrates **transcriptomics (RNA-Seq)**, machine learning, and clinical data to decipher the molecular landscape of **B-cell Acute Lymphoblastic Leukemia (B-ALL)**.
-
-I am analyzing expression-based RNA-Seq data from a large **Indian B-ALL cohort** to reveal subtype-specific expression patterns, fusion events, and transcriptomic profiles. My ultimate goal is to uncover diagnostic and prognostic biomarkers that can improve treatment strategies.
-
-I am actively seeking **Postdoctoral opportunities** in genomics and data-driven biology to further explore how code can solve real-world biological problems.
+With a "wet-to-dry" lab skillset, I am passionate about bridging the gap between raw genomic data and meaningful clinical insights. I am currently seeking **Postdoctoral opportunities** where I can apply my expertise to uncover novel insights in precision medicine and disease mechanisms.
 
 --------------------------------------------------------------------------------
 
@@ -43,7 +40,7 @@ I am actively seeking **Postdoctoral opportunities** in genomics and data-driven
 ::: g-col-6
 #### Education
 
-**PhD in Hematologic Oncology** \| 2022 - Present<br> *AIIMS, New Delhi, India*
+**PhD in Cancer Genomics** \| 2022 - Present<br> *AIIMS, New Delhi, India*
 
 **MSc in Applied Genetics** \| 2017 - 2019<br> *Bangalore University, India*
 

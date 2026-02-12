@@ -1,9 +1,12 @@
 ---
-title: "Beyond the lab"
+title: "Beyond the Lab"
 ---
 
 ## <i class="bi bi-award"></i> Certifications & Training
 
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
 #### Bioinformatics & Genomics
 ::: {.callout-note appearance="minimal" icon=false}
 * **NASA GeneLab** | *GL4U: RNA Sequencing Module Set*
@@ -16,6 +19,15 @@ title: "Beyond the lab"
   * *IMAeVarsity & Martin Luther Christian University*
 :::
 
+#### National Qualifications
+::: {.callout-note appearance="minimal" icon=false}
+* **JGEEBILS 2021** | Qualified (Ref: GS2021BIOPHD030224)
+
+* **GATE 2020 (Life Sciences)** | AIR 1289 (Score: 475)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
 #### Wet Lab Techniques
 ::: {.callout-note appearance="minimal" icon=false}
 * **Engineering Zebrafish with CRISPR Tools**
@@ -24,12 +36,8 @@ title: "Beyond the lab"
 * **Animal Cell Culture Techniques**
   * *CellKraft Biotech Pvt. Ltd* | Feb 2020
 :::
+:::
 
-#### National Qualifications
-::: {.callout-note appearance="minimal" icon=false}
-* **JGEEBILS 2021** | Qualified (Ref: GS2021BIOPHD030224)
-
-* **GATE 2020 (Life Sciences)** | AIR 1289 (Score: 475)
 :::
 
 ---
@@ -43,20 +51,32 @@ title: "Beyond the lab"
 
 ---
 
-### Hobbies & Interests
-When I am not debugging R code or running experiments, I recharge through:
+### Hobbies & Gallery
+When I am not debugging R code or running experiments, I recharge through the arts and nature.
 
-::: {.grid}
-::: {.g-col-6 .g-col-md-4}
 * <i class="bi bi-book"></i> Reading & Writing
 * <i class="bi bi-music-note-beamed"></i> Violin
-:::
-::: {.g-col-6 .g-col-md-4}
-* <i class="bi bi-music-player"></i> Listening to Music
-* <i class="bi bi-flower1"></i> Crochet
-:::
-::: {.g-col-6 .g-col-md-4}
 * <i class="bi bi-stars"></i> Classical Dance
-* <i class="bi bi-palette"></i> Painting
+* <i class="bi bi-palette"></i> Painting & Crochet
+
+<br>
+
+<center>
+![*Happy Me*](images/trek.jpg){style="width: 80%; max-width: 600px; height: auto; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); margin-bottom: 30px;"}
+</center>
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![*My Poetry Book*](images/book.jpg){style="height: 40px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"}
 :::
+
+::: {.g-col-12 .g-col-md-4}
+![*Classical Dance*](images/dance.jpg){style="height: 40px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![*Painting*](images/painting.jpg){style="height: 40px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"}
+:::
+
 :::
