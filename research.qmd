@@ -26,6 +26,7 @@ title: "Research & Skills"
 * RNA-Seq Data Analysis
 * Differential Gene Expression
 * WGCNA Network Analysis
+* Single-cell RNASeq Analysis
 * Fusion Detection
 * Protein Structure Modeling
 * Molecular Docking
