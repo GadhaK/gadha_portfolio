@@ -32,19 +32,21 @@ With a "wet-to-dry" lab skillset, I am passionate about bridging the gap between
 
 ::::: grid
 ::: g-col-6
-#### Interests
-
-**Transcriptomics**  <br>  **Bioinformatics**  <br>  **Cancer Genomics**  <br>  **Precision Medicine**
-:::
-
-::: g-col-6
 #### Education
 
 **PhD in Cancer Genomics** \| 2022 - Present<br> *AIIMS, New Delhi, India*
 
+**Advanced PG Diploma in Life Science Technologies** \| 2020-2021<br> *SRMIST, India*
+
 **MSc in Applied Genetics** \| 2017 - 2019<br> *Bangalore University, India*
 
 **BSc in Genetics** \| 2014 - 2017<br> *Ramaiah College, India*
+:::
+
+::: g-col-6
+#### Interests
+
+**Transcriptomics**  <br>  **Bioinformatics**  <br>  **Cancer Genomics**  <br>  **Precision Medicine**
 :::
 :::::
 

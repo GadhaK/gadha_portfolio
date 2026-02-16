@@ -14,14 +14,19 @@ title: "Publications & Conferences"
 
 * Gupta, S.K., **Leons, G. K.**, Sharma, P., et al. (2025). Application of Targeted RNA-Sequencing in High-Risk B-Cell Acute Lymphoblastic Leukemia (B-ALL): Identifying Fusions, IKZF1 Deletions, and CRLF2 Expression in an Indian Cohort. *Int J Lab Hematol*. [doi:10.1111/ijlh.14551](https://doi.org/10.1111/ijlh.14551)
 
-* Sharma, P., **Leons, G. K.**, et al. (2025). Gene expression signature of IKZF1 deleted B-cell acute lymphoblastic leukaemia reveals a unique regulation of MUC4. *Br J Haematol*. [doi:10.1111/bjh.70014](https://doi.org/10.1111/bjh.70014)
+* Sharma, P., **Leons, G. K.**, Gupta, S.K., et al. (2025). Gene expression signature of IKZF1 deleted B-cell acute lymphoblastic leukaemia reveals a unique regulation of MUC4. *Br J Haematol*. [doi:10.1111/bjh.70014](https://doi.org/10.1111/bjh.70014)
 
 * Gupta, S.K., **Leons, G. K.** (2025). Genetics of B-Cell Acute Lymphoblastic Leukemia (B-ALL): Recent Updates and Indian Perspective. *Indian J Hematol Blood Transfus*.
 [doi:10.1007/s12288-025-01988-y](https://doi.org/10.1007/s12288-025-01988-y)
 
 ### 2023
 
-* **Leons, G. K.**, et al. (2023). Detection of a novel SNX2 gene breakpoint in the SNX2::ABL1 fusion transcript in Ph-like B-cell acute lymphoblastic leukemia. *Pediatric Blood & Cancer*. [doi:10.1002/pbc.30546](https://doi.org/10.1002/pbc.30546)
+* **Leons, G. K.**, Sharma, P., Gupta, S. K., et al. (2023). Detection of a novel SNX2 gene breakpoint in the SNX2::ABL1 fusion transcript in Ph-like B-cell acute lymphoblastic leukemia. *Pediatric Blood & Cancer*. [doi:10.1002/pbc.30546](https://doi.org/10.1002/pbc.30546)
+
+### 2022
+
+* Sharma, P., Gupta, S. K., **Leons, G. K.**, et al. (2022). IKZF1::CIITA, a novel fusion transcript in a case of relapsed B-cell acute lymphoblastic leukemia. *Pediatric Blood & Cancer*. 
+[doi: 10.1002/pbc.29872](https://doi.org/10.1002/pbc.29872) 
 
 ## <i class="bi bi-book"></i> Book Chapters
 
