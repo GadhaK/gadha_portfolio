@@ -18,13 +18,6 @@ title: "Beyond the Lab"
 * **Genetic Counseling Certification**
   * *IMAeVarsity & Martin Luther Christian University*
 :::
-
-#### National Qualifications
-::: {.callout-note appearance="minimal" icon=false}
-* **JGEEBILS 2021** | Qualified (Ref: GS2021BIOPHD030224)
-
-* **GATE 2020 (Life Sciences)** | AIR 1289 (Score: 475)
-:::
 :::
 
 ::: {.g-col-12 .g-col-md-6}
@@ -36,6 +29,13 @@ title: "Beyond the Lab"
 * **Animal Cell Culture Techniques**
   * *CellKraft Biotech Pvt. Ltd* | Feb 2020
 :::
+
+#### National Qualifications
+::: {.callout-note appearance="minimal" icon=false}
+* **JGEEBILS 2021** | Qualified (Ref: GS2021BIOPHD030224)
+* **GATE 2020 (Life Sciences)** | AIR 1289 (Score: 475)
+:::
+
 :::
 
 :::
