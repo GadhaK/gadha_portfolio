@@ -8,7 +8,7 @@ title: "Beyond the Lab"
 
 ::: {.g-col-12 .g-col-md-6}
 #### Bioinformatics & Genomics
-::: {.callout-note appearance="minimal" icon=false}
+
 * **NASA GeneLab** | *GL4U: RNA Sequencing Module Set*
   * *Completed:* Aug 2025
 
@@ -17,24 +17,24 @@ title: "Beyond the Lab"
 
 * **Genetic Counseling Certification**
   * *IMAeVarsity & Martin Luther Christian University*
-:::
+
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 #### Wet Lab Techniques
-::: {.callout-note appearance="minimal" icon=false}
+
 * **Engineering Zebrafish with CRISPR Tools**
   * *CSIR-CCMB* | March 2020
 
 * **Animal Cell Culture Techniques**
   * *CellKraft Biotech Pvt. Ltd* | Feb 2020
-:::
+
 
 #### National Qualifications
-::: {.callout-note appearance="minimal" icon=false}
+
 * **JGEEBILS 2021** | Qualified (Ref: GS2021BIOPHD030224)
 * **GATE 2020 (Life Sciences)** | AIR 1289 (Score: 475)
-:::
+
 
 :::
 
